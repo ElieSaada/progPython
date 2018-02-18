@@ -49,13 +49,22 @@ def txt2HTML(pathFile):
 
 newPath4="C:/Users/elie-_000/Desktop/hv.txt"
 final=open(newPath4,'w')
-if len(sys.argv)==2:
+x=1
+close =False
+while(close=False):
+        if len(sys.argv)==2:
 	path=sys.argv[1]
-else:
-	path=input("please enter a path")
-if os.path.isdir(path):
-	n=browseDir(path)
-else:
-	txt2HTML(Final(path))
-final.close()
+        else:
+                path=input("please enter a path")
+        if os.path.isdir(path):
+                n=browseDir(path)
+        else:
+                txt2HTML(Final(path))
+        rep=input("Do you whant to continue yes: y   no: n")
+        if(rep=="no"):
+                close=True
+                final.close()
+        x=x+1
+        
+
 	
