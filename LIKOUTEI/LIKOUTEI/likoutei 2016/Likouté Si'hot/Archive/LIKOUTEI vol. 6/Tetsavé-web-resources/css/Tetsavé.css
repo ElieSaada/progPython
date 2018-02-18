@@ -1,0 +1,127 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+li {
+	display:block;
+}
+body {
+	font-size:12px;
+	-epub-hyphens:auto;
+}
+p.Normal-e- {
+	color:#231f20;
+	direction:rtl;
+	font-family:"Helvetica Medium", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.para-style-override-1 {
+	font-family:"Palatino Linotype", serif;
+	font-size:11px;
+	font-style:italic;
+	font-weight:bold;
+	text-align:right;
+}
+p.para-style-override-2 {
+	font-family:"Palatino Linotype", serif;
+	font-size:11px;
+	font-style:italic;
+	font-weight:bold;
+	text-align:center;
+}
+p.para-style-override-3 {
+	font-family:"Palatino Linotype", serif;
+	font-style:italic;
+	font-weight:bold;
+	text-align:center;
+}
+p.para-style-override-4 {
+	font-family:"Palatino Linotype", serif;
+	font-style:normal;
+	font-weight:normal;
+	text-align:center;
+}
+p.para-style-override-5 {
+	font-family:"Palatino Linotype", serif;
+	font-size:11px;
+	font-style:italic;
+	font-weight:normal;
+	text-align:center;
+}
+p.para-style-override-6 {
+	text-align:center;
+}
+p.para-style-override-7 {
+	font-family:"Palatino Linotype", serif;
+	font-size:11px;
+	font-style:normal;
+	font-weight:normal;
+}
+p.para-style-override-8 {
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:11px;
+	font-style:normal;
+	font-weight:normal;
+}
+p.para-style-override-9 {
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:10px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-1 {
+	font-family:"Palatino Linotype", serif;
+	font-size:11px;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-2 {
+	font-family:"Palatino Linotype", serif;
+	font-size:11px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-3 {
+	font-family:"Palatino Linotype", serif;
+	font-size:6px;
+	font-style:normal;
+	font-weight:normal;
+	vertical-align:super;
+}
+span.char-style-override-4 {
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:10px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-5 {
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:10px;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-6 {
+	font-family:"Adobe Garamond Pro", serif;
+	font-size:11px;
+	font-style:normal;
+	font-weight:normal;
+}
